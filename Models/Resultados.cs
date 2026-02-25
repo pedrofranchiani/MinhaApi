@@ -1,4 +1,4 @@
-namespace MinhaApi.Controllers;
+namespace MinhaApi.Models;
 
 public class Resultados
 {

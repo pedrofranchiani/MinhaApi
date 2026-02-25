@@ -1,6 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using MinhaApi.Controllers;
-using MinhaApi.Models;
 
 namespace MinhaApi.Models;
 
